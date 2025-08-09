@@ -36,7 +36,7 @@ It monitors gas levels, temperature, and humidity in real-time, displays data on
 
 ---
 ## 📷 Circuit Diagram
-![Circuit Diagram](docs/circuit_diagram.jpeg)
+![Circuit Diagram](docs/circuit_diagram.png)
 
 ---
 
