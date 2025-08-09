@@ -35,6 +35,10 @@ It monitors gas levels, temperature, and humidity in real-time, displays data on
 - Expandable for controlling home appliances.
 
 ---
+## 📷 Circuit Diagram
+![Circuit Diagram](docs/circuit_diagram.jpeg)
+
+---
 
 ## 🔧 Setup Instructions
 1. Clone this repository:
